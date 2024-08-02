@@ -32,6 +32,6 @@ Să se realizeze un meniu care permite următoarele operațiuni:
 
 9)     Verificarea dacă primul student din listă este același student cu studentul cu cea mai mare medie finală, prin supraîncărcarea operatorului ==
 
-10)  Salvarea listei de studenți în fișier.
+10)     Salvarea listei de studenți în fișier.
 
 Introducerea/scrierea datelor se va efectua prin supraîncărcarea operatorilor de intrare-ieșire.
