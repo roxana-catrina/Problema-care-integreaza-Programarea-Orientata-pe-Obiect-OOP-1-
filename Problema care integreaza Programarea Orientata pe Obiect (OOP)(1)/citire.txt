@@ -1,0 +1,2 @@
+Maria 20 2 MTP 9 BD 10 0
+Popescu 23 1 OOP 5 1 Vasile 50 OOP
